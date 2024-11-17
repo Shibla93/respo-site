@@ -1,0 +1,25 @@
+.navbar{
+    
+
+        height: 70px;
+        background-color: #0f1111;
+        color:white;
+    
+        text-decoration:none;
+}
+.
+.img{
+    height:24px;
+    width:100px;
+}
+
+i{
+    align-items: center;
+}
+ .text{
+    font-size: 0.7rem;
+}
+.copy{
+    padding-top: 5px;
+    font-size: .7rem;
+}
